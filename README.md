@@ -1,2 +1,2 @@
-# vim-configuration
-My .vimrc file :)
+# Configuration files
+My .vimrc & .bashrc files :)
